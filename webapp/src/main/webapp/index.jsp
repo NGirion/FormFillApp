@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter Aadhar Number" name="Aadhar" id="Aadhar" required>
     <br>
 
+    <label for="Father"><b>Father's Name</b></label>
+    <input type="text" placeholder="Enter Father's Name" name="Father" id="Father" required>
+    <br>
+
     <label for="Mother"><b>Mother's Name</b></label>
     <input type="text" placeholder="Enter Mother's Name" name="Mother" id="Mother" required>
     <br>

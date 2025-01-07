@@ -13,6 +13,11 @@
     <input type="text" placeholder="Enter Aadhar Number" name="Aadhar" id="Aadhar" required>
     <br>
 
+    <label for="Mother"><b>Mother's Name</b></label>
+    <input type="text" placeholder="Enter Mother's Name" name="Mother" id="Mother" required>
+    <br>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>

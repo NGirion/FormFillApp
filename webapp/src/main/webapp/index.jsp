@@ -25,6 +25,9 @@
     <input type="text" placeholder="Enter Friend's Name" name="Friend" id="Friend" required>
     <br>
 
+    <label for="Sathish"><b>Sathish's Name</b></label>
+    <input type="text" placeholder="Enter Sathish's Name" name="Sathish" id="Sathish" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>

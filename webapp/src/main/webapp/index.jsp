@@ -21,8 +21,8 @@
     <input type="text" placeholder="Enter Mother's Name" name="Mother" id="Mother" required>
     <br>
 
-    <label for="Brother"><b>Brother's Name</b></label>
-    <input type="text" placeholder="Enter Brother's Name" name="Brother" id="Brother" required>
+    <label for="Friend"><b>Friend's Name</b></label>
+    <input type="text" placeholder="Enter Friend's Name" name="Friend" id="Friend" required>
     <br>
 
 
